@@ -181,6 +181,8 @@
       }
     }
   });
+ 
+
 
   // Portfolio details carousel
   $(".portfolio-details-carousel").owlCarousel({
