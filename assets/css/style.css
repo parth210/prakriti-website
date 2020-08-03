@@ -447,15 +447,13 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-/*--------------------------------------------------------------
-# Enva gallery
---------------------------------------------------------------*/
+
 
 /*--------------------------------------------------------------
 # Sections General
 --------------------------------------------------------------*/
 section {
-  padding: 60px 0;
+  padding: 20px 0;
   overflow: hidden;
 }
 
@@ -663,8 +661,8 @@ section {
    text-align: left;
 }
 .mission .card .txt h1 {
-	 font-size: 1.5rem;
-	 font-weight: 300;
+	 font-size: 1.7rem;
+	 font-weight: 500;
 	 text-transform: uppercase;
 }
 .mission .card .txt p {
