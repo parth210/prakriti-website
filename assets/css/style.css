@@ -632,7 +632,7 @@ section {
 
 
 .mission .column {
-	 margin-top: 3rem;
+	 margin-top: 1rem;
 	 padding-left: 3rem;
 }
 .mission .column:hover {
@@ -723,11 +723,15 @@ section {
   .mission .mission-row{
     padding-right: 1em;
   }
+ 
 }
 @media (max-width: 768px){
   .mission .column{
     padding: 1em;
   }
+  .mission .column:hover {
+    padding-left: 1rem;
+ }
   .mission .card .txt {
     margin-left: 1em;
     text-align: left;
