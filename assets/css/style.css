@@ -371,7 +371,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../../MSIT/MSIT4-min.jpg") center center;
+  background: url("../../MSIT/MSIT4.jpg") center center;
   background-size: cover;
   position: relative;
   background-attachment: fixed;
