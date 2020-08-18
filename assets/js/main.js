@@ -135,11 +135,7 @@
     return false;
   });
 
-  // jQuery counterUp
-  $('[data-toggle="counter-up"]').counterUp({
-    delay: 10,
-    time: 1000
-  });
+
 
   // Porfolio isotope and filter
   $(window).on('load', function() {
